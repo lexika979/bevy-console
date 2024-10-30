@@ -261,7 +261,7 @@ impl Default for ConsoleConfiguration {
             resizable: true,
             moveable: true,
             show_title_bar: true,
-            background_color: Color32::from_black_alpha(102),
+            background_color: Color32::from_black_alpha(255),
             foreground_color: Color32::LIGHT_GRAY,
             num_suggestions: 4,
         }
